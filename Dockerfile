@@ -1,2 +1,2 @@
 FROM httpd
-COPY tushar.java /usr/local/apache2/htdocs/
+COPY index.html /usr/local/apache2/htdocs/
